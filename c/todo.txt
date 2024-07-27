@@ -1,0 +1,5 @@
+Todo:
+Linkedlist
+Stack
+
+Done:
